@@ -170,7 +170,7 @@ Thinkthenwaithi is a start-up that builds ai and apps for sole proprietors to pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
 </div>
 
-###
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thinkthenwaithi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -180,10 +180,10 @@ Thinkthenwaithi is a start-up that builds ai and apps for sole proprietors to pr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thinkthenwaithi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+##
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/thinkthenwaithi/count.svg?"  />
 </div>
 
-###
+##
