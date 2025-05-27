@@ -1,5 +1,5 @@
 # 💫 About Me:
-Thinkthenwaithi is a start-up that builds ai and apps for sole proprietors to private conglomerates.<br><br>Thinkthenwaithi also works in social media, finances, content, games, consulting, and more.<br><br>We are working on things to change the future.<br><br>We do the things that ai can't do while create perfect ai tools.
+Thinkthenwaithi is a start-up that builds ai and apps for sole proprietors to private conglomerates.<br><br>Thinkthenwaithi also works in social media, finances, content, games, consulting, and more.<br><br>We are working on things to change the future.<br><br>We do the things that ai can't do while create perfect ai tools. ttwh
 
 
 ## 🌐 Socials:
